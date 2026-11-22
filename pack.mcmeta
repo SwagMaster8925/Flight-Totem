@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 97,
+        "supported_formats": {"min_inclusive": 97, "max_inclusive": 999},
+		"description": "Heat Cheque",
+		"min_format": 97,
+		"max_format": 999
+	}
+}
